@@ -1,8 +1,6 @@
 ## Spring Boot Angular
+* **Objective** - The purpose of this repository is to create a standard template to clone from when creating new spring boot web services with an Angular JS front end.
 
-This module contains articles about Spring Boot with Angular
 
-### Relevant Articles:
-
-- [Building a Web Application with Spring Boot and Angular](https://www.baeldung.com/spring-boot-angular-web)
-- [A Simple E-Commerce Implementation with Spring](https://www.baeldung.com/spring-angular-ecommerce)
+* **Background**
+- This application was built using [EugenP's tutorial on building a Web Application with Spring Boot and Angular](https://github.com/eugenp/tutorials/tree/master/spring-boot-modules/spring-boot-angular)
