@@ -16,7 +16,7 @@
 
 
 ### How to run Application
-* From the root directory from [each js application](./src/main/js) execute the following command:
+* From the root directory of [EACH js application](./src/main/js) execute the following command:
     * `npm install ; npm start`
 * Upon running, the application should be visible by navigating to `http://localhost:4200`
 
